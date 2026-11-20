@@ -1,0 +1,30 @@
+[
+  {
+    "section": "k1",
+    "requirement": "结构写作",
+    "opens": 41,
+    "switch_until": 38,
+    "seats": 1
+  },
+  {
+    "section": "k2",
+    "requirement": "结构写作",
+    "opens": 46,
+    "switch_until": 42,
+    "seats": 2
+  },
+  {
+    "section": "k3",
+    "requirement": "比较写作",
+    "opens": 43,
+    "switch_until": 39,
+    "seats": 1
+  },
+  {
+    "section": "k4",
+    "requirement": "论据",
+    "opens": 46,
+    "switch_until": 41,
+    "seats": 3
+  }
+]

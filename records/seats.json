@@ -1,0 +1,16 @@
+[
+  {
+    "student": "s2",
+    "section": "k3",
+    "day": 31,
+    "state": "conditional",
+    "advisor": "钟"
+  },
+  {
+    "student": "s2",
+    "section": "k4",
+    "day": 31,
+    "state": "waiting",
+    "advisor": "钟"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "student": "s1",
+    "preference": [
+      "k1",
+      "k2"
+    ]
+  },
+  {
+    "student": "s2",
+    "preference": [
+      "k3",
+      "k2",
+      "k4"
+    ]
+  },
+  {
+    "student": "s3",
+    "preference": [
+      "k2",
+      "k4"
+    ]
+  }
+]

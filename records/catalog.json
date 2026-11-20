@@ -56,5 +56,28 @@
     "student",
     "session",
     "day"
+  ],
+  "sections": [
+    "section",
+    "requirement",
+    "opens",
+    "switch_until",
+    "seats"
+  ],
+  "preferences": [
+    "student",
+    "preference"
+  ],
+  "seats": [
+    "student",
+    "section",
+    "day",
+    "state",
+    "advisor"
+  ],
+  "adjustments": [
+    "session",
+    "received",
+    "revised_verified"
   ]
 }
