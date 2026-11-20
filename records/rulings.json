@@ -1,0 +1,68 @@
+[
+  {
+    "observation": "o1",
+    "student": "s1",
+    "state": "accept",
+    "day": 9
+  },
+  {
+    "observation": "o2",
+    "student": "s1",
+    "state": "accept",
+    "day": 15
+  },
+  {
+    "observation": "o3",
+    "student": "s1",
+    "state": "accept",
+    "day": 27
+  },
+  {
+    "observation": "o4",
+    "student": "s1",
+    "state": "accept",
+    "day": 27
+  },
+  {
+    "observation": "o5",
+    "student": "s1",
+    "state": "accept",
+    "day": 28
+  },
+  {
+    "observation": "o6",
+    "student": "s2",
+    "state": "accept",
+    "day": 11
+  },
+  {
+    "observation": "o7",
+    "student": "s2",
+    "state": "accept",
+    "day": 29
+  },
+  {
+    "observation": "o8",
+    "student": "s2",
+    "state": "accept",
+    "day": 30
+  },
+  {
+    "observation": "o9",
+    "student": "s2",
+    "state": "accept",
+    "day": 30
+  },
+  {
+    "observation": "o8",
+    "student": "s2",
+    "state": "contested",
+    "day": 32
+  },
+  {
+    "observation": "o8",
+    "student": "s2",
+    "state": "reject",
+    "day": 34
+  }
+]

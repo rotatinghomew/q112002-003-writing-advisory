@@ -1,0 +1,23 @@
+[
+  {
+    "student": "s1",
+    "required": "结构写作",
+    "start_day": 40,
+    "term": 2,
+    "advisor": "许"
+  },
+  {
+    "student": "s2",
+    "required": "比较写作",
+    "start_day": 41,
+    "term": 2,
+    "advisor": "钟"
+  },
+  {
+    "student": "s3",
+    "required": "结构写作",
+    "start_day": 45,
+    "term": 2,
+    "advisor": "许"
+  }
+]

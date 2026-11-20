@@ -1,0 +1,37 @@
+[
+  {
+    "activity": "x1",
+    "course": "写作一",
+    "format": "短文",
+    "goal": "论据",
+    "term": 1
+  },
+  {
+    "activity": "x2",
+    "course": "讨论一",
+    "format": "口述",
+    "goal": "口述反驳",
+    "term": 1
+  },
+  {
+    "activity": "x3",
+    "course": "写作二",
+    "format": "短文",
+    "goal": "反例修正",
+    "term": 2
+  },
+  {
+    "activity": "x4",
+    "course": "讨论二",
+    "format": "口述",
+    "goal": "反例修正",
+    "term": 2
+  },
+  {
+    "activity": "x5",
+    "course": "写作二",
+    "format": "口述",
+    "goal": "结构写作",
+    "term": 2
+  }
+]

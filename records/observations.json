@@ -1,0 +1,92 @@
+[
+  {
+    "observation": "o1",
+    "activity": "x1",
+    "student": "s1",
+    "group": null,
+    "occasion": "a",
+    "term": 1,
+    "support": false,
+    "day": 8
+  },
+  {
+    "observation": "o2",
+    "activity": "x2",
+    "student": null,
+    "group": "g1",
+    "occasion": "b",
+    "term": 1,
+    "support": false,
+    "day": 9
+  },
+  {
+    "observation": "o3",
+    "activity": "x3",
+    "student": "s1",
+    "group": "g1",
+    "occasion": "c",
+    "term": 2,
+    "support": false,
+    "day": 26
+  },
+  {
+    "observation": "o4",
+    "activity": "x4",
+    "student": "s1",
+    "group": "g1",
+    "occasion": "c",
+    "term": 2,
+    "support": false,
+    "day": 26
+  },
+  {
+    "observation": "o5",
+    "activity": "x4",
+    "student": "s1",
+    "group": null,
+    "occasion": "d",
+    "term": 2,
+    "support": true,
+    "day": 27
+  },
+  {
+    "observation": "o6",
+    "activity": "x2",
+    "student": "s2",
+    "group": null,
+    "occasion": "e",
+    "term": 1,
+    "support": false,
+    "day": 10
+  },
+  {
+    "observation": "o7",
+    "activity": "x4",
+    "student": "s2",
+    "group": null,
+    "occasion": "f",
+    "term": 2,
+    "support": false,
+    "day": 28
+  },
+  {
+    "observation": "o8",
+    "activity": "x4",
+    "student": "s2",
+    "group": null,
+    "occasion": "g",
+    "term": 2,
+    "support": false,
+    "day": 29
+  },
+  {
+    "observation": "o9",
+    "activity": "x5",
+    "student": "s2",
+    "group": null,
+    "occasion": "h",
+    "term": 2,
+    "support": false,
+    "day": 29
+  }
+]

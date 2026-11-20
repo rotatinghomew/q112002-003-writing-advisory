@@ -1,0 +1,60 @@
+{
+  "goals": [
+    "goal",
+    "independent",
+    "occasions",
+    "valid_terms"
+  ],
+  "prerequisites": [
+    "goal",
+    "path",
+    "required"
+  ],
+  "observation_map": [
+    "activity",
+    "course",
+    "format",
+    "goal",
+    "term"
+  ],
+  "observations": [
+    "observation",
+    "activity",
+    "student",
+    "group",
+    "occasion",
+    "term",
+    "support",
+    "day"
+  ],
+  "rulings": [
+    "observation",
+    "student",
+    "state",
+    "day"
+  ],
+  "admissions": [
+    "student",
+    "required",
+    "start_day",
+    "term",
+    "advisor"
+  ],
+  "availability": [
+    "student",
+    "day"
+  ],
+  "workshops": [
+    "session",
+    "day",
+    "verified",
+    "seats",
+    "independent",
+    "covers"
+  ],
+  "appointments": [
+    "student",
+    "session",
+    "day"
+  ]
+}

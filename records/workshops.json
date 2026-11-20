@@ -1,0 +1,53 @@
+[
+  {
+    "session": "w1",
+    "day": 34,
+    "verified": 35,
+    "seats": 1,
+    "independent": true,
+    "covers": [
+      "反例修正"
+    ]
+  },
+  {
+    "session": "w2",
+    "day": 36,
+    "verified": 38,
+    "seats": 2,
+    "independent": true,
+    "covers": [
+      "结构写作",
+      "反例修正"
+    ]
+  },
+  {
+    "session": "w3",
+    "day": 39,
+    "verified": 42,
+    "seats": 1,
+    "independent": true,
+    "covers": [
+      "反例修正"
+    ]
+  },
+  {
+    "session": "w4",
+    "day": 38,
+    "verified": 39,
+    "seats": 3,
+    "independent": false,
+    "covers": [
+      "口述反驳"
+    ]
+  },
+  {
+    "session": "w5",
+    "day": 38,
+    "verified": 39,
+    "seats": 2,
+    "independent": true,
+    "covers": [
+      "论据"
+    ]
+  }
+]
